@@ -1,4 +1,5 @@
-bot.login(process.env.TOKEN); 
+//bot.login(process.env.TOKEN);
+bot.login('NDM2MDczNTgzNzQ4NDQ4MjU2.DbiNdg.tBJ-hiACOhDBmw5c6wPezRlr1Cc');
 const Discord = require("discord.js");
 const bot = new Discord.Client();
 var prefix = ("_")
